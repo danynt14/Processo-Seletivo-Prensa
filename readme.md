@@ -4,9 +4,9 @@
 
  1. python 3.8.3
  2. Django 3.1.4
-    2.1 pip install django
+ - `${pip install django}`
  3. gql 2.0.0
-    3.1 pip install gql
+ - `${pip install gql}`
  4. SQLite 3.0
 
 Programas para ter acesso às informações do Banco de dados SQLite:
