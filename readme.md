@@ -35,3 +35,11 @@ pelo _client_id_ da sua conta de [DEV Elo](dev.elo.com.br).
 ```
 
 entre em `%{https:localhost:8000}` e divirta-se! :-D
+
+License
+----
+
+MIT
+
+
+**Free Software, Hell Yeah!**
