@@ -35,7 +35,7 @@ def buscandoNumeroBIN(BIN):
                  existeBINBanco[0].is_token)
     else:
         try:
-            getJson = infoTableBINs(BIN, "f077b4f9-f899-3fb6-8fd7-a4528c0cb04a")
+            getJson = infoTableBINs(BIN, "DADO-SENSÍVEL")
              
         except:
             return "Numero Bin Inválido"
