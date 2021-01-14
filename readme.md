@@ -42,4 +42,4 @@ License
 MIT
 
 
-**Free Software, Hell Yeah!**
+> Viva a Liberdade \0/ 
